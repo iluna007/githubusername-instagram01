@@ -1,5 +1,5 @@
 body {
-    background: grey;
+    background: #EAEAEA;
     margin: 0;
 }
 
@@ -13,6 +13,7 @@ header {
 
 header h1{
     margin: 0;
+    text-align: center;
 }
 
 div.post {
